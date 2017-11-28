@@ -1,0 +1,14 @@
+{
+  "name": "operators-scraper",
+  "description": "Scraping the UK railway operators from a table",
+  "version": "0.1.0",
+  "main": "app.js",
+  "license": "GPL-3.0",
+  "author": "Jon Ribeiro <contact@jonathas.com>",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
